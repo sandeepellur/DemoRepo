@@ -1,0 +1,604 @@
+2018-04-01 11:55:43 INFO  TC01_verifyInvaidLogin:36 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-01 11:55:50 INFO  HomePage:37 - clicked on signin link[[ChromeDriver: chrome on XP (dec2759968798bc3c7d37c4c113e6718)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-01 11:55:50 INFO  HomePage:39 - Enterted username[[ChromeDriver: chrome on XP (dec2759968798bc3c7d37c4c113e6718)] -> xpath: //input[@id='email']]
+2018-04-01 11:55:50 INFO  HomePage:41 - Entered Password[[ChromeDriver: chrome on XP (dec2759968798bc3c7d37c4c113e6718)] -> xpath: //input[@id='passwd']]
+2018-04-01 11:55:54 INFO  HomePage:43 - Clicked on Submit button[[ChromeDriver: chrome on XP (dec2759968798bc3c7d37c4c113e6718)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-01 11:55:54 INFO  TC01_verifyInvaidLogin:40 - Error Message vlidation failed
+2018-04-01 11:55:54 INFO  TC01_verifyInvaidLogin:41 - ######### ending verifybyinvlidlogin test ###########
+2018-04-01 13:30:53 INFO  TC02_VerifyRegistration:24 - =============== STARTING verifyregistration TEST ================
+2018-04-01 13:30:56 INFO  HomePage:101 - clicked on sign in button
+2018-04-01 13:30:56 INFO  HomePage:103 - Entered email address
+2018-04-01 13:30:56 INFO  HomePage:105 - Clicked on CreateAccount button
+2018-04-01 13:32:26 INFO  TC02_VerifyRegistration:24 - =============== STARTING verifyregistration TEST ================
+2018-04-01 13:33:03 INFO  HomePage:101 - clicked on sign in button
+2018-04-01 13:33:09 INFO  HomePage:103 - Entered email address
+2018-04-01 13:33:24 INFO  HomePage:105 - Clicked on CreateAccount button
+2018-04-01 13:33:31 INFO  HomePage:107 - Selected MR radio button
+2018-04-01 13:33:34 INFO  HomePage:109 - Entered FirstName
+2018-04-01 13:33:36 INFO  HomePage:111 - Entered LastName
+2018-04-01 13:33:54 INFO  HomePage:113 - Entered Address1
+2018-04-01 13:33:56 INFO  HomePage:115 - City Enetered
+2018-04-01 13:40:30 INFO  TC02_VerifyRegistration:24 - =============== STARTING verifyregistration TEST ================
+2018-04-01 13:40:34 INFO  HomePage:101 - clicked on sign in button
+2018-04-01 13:40:35 INFO  HomePage:103 - Entered email address
+2018-04-01 13:40:35 INFO  HomePage:105 - Clicked on CreateAccount button
+2018-04-01 13:40:45 INFO  HomePage:108 - Selected MR radio button
+2018-04-01 13:40:45 INFO  HomePage:110 - Entered FirstName
+2018-04-01 13:40:45 INFO  HomePage:112 - Entered LastName
+2018-04-01 13:40:45 INFO  HomePage:114 - Entered Address1
+2018-04-01 13:40:45 INFO  HomePage:116 - City Enetered
+2018-04-01 13:41:14 INFO  HomePage:119 - Entered State
+2018-04-01 13:41:17 INFO  HomePage:121 - Entered ZipCode
+2018-04-01 13:41:19 INFO  HomePage:123 - Entered Mobile Number
+2018-04-01 13:41:22 INFO  HomePage:126 - Entered Country
+2018-04-01 13:41:23 INFO  HomePage:128 - Entered Address2
+2018-04-01 13:46:43 INFO  TC02_VerifyRegistration:24 - =============== STARTING verifyregistration TEST ================
+2018-04-01 13:46:47 INFO  HomePage:101 - clicked on sign in button
+2018-04-01 13:46:47 INFO  HomePage:103 - Entered email address
+2018-04-01 13:46:47 INFO  HomePage:105 - Clicked on CreateAccount button
+2018-04-01 13:46:57 INFO  HomePage:108 - Selected MR radio button
+2018-04-01 13:46:57 INFO  HomePage:110 - Entered FirstName
+2018-04-01 13:46:57 INFO  HomePage:112 - Entered LastName
+2018-04-01 13:46:58 INFO  HomePage:114 - Entered password
+2018-04-01 13:46:58 INFO  HomePage:116 - Entered Address1
+2018-04-01 13:46:58 INFO  HomePage:118 - City Enetered
+2018-04-01 13:46:58 INFO  HomePage:121 - Entered State
+2018-04-01 13:46:58 INFO  HomePage:123 - Entered ZipCode
+2018-04-01 13:46:58 INFO  HomePage:125 - Entered Mobile Number
+2018-04-01 13:46:58 INFO  HomePage:128 - Entered Country
+2018-04-01 13:46:59 INFO  HomePage:130 - Entered Address2
+2018-04-01 13:50:35 INFO  HomePage:132 - Clicked on Submit button
+2018-04-01 13:53:55 INFO  TC02_VerifyRegistration:24 - =============== STARTING verifyregistration TEST ================
+2018-04-01 13:54:04 INFO  HomePage:104 - clicked on sign in button
+2018-04-01 13:54:04 INFO  HomePage:106 - Entered email address
+2018-04-01 13:54:04 INFO  HomePage:108 - Clicked on CreateAccount button
+2018-04-01 13:54:14 INFO  HomePage:111 - Selected MR radio button
+2018-04-01 13:54:14 INFO  HomePage:113 - Entered FirstName
+2018-04-01 13:54:14 INFO  HomePage:115 - Entered LastName
+2018-04-01 13:54:15 INFO  HomePage:117 - Entered password
+2018-04-01 13:54:15 INFO  HomePage:119 - Entered Address1
+2018-04-01 13:54:15 INFO  HomePage:121 - City Enetered
+2018-04-01 13:54:15 INFO  HomePage:124 - Entered State
+2018-04-01 13:54:15 INFO  HomePage:126 - Entered ZipCode
+2018-04-01 13:54:15 INFO  HomePage:128 - Entered Mobile Number
+2018-04-01 13:54:16 INFO  HomePage:131 - Entered Country
+2018-04-01 13:54:16 INFO  HomePage:133 - Entered Address2
+2018-04-01 13:54:18 INFO  HomePage:135 - Clicked on Submit button
+2018-04-01 13:56:53 INFO  TC02_VerifyRegistration:24 - =============== STARTING verifyregistration TEST ================
+2018-04-01 13:56:56 INFO  HomePage:104 - clicked on sign in button
+2018-04-01 13:56:57 INFO  HomePage:106 - Entered email address
+2018-04-01 13:56:57 INFO  HomePage:108 - Clicked on CreateAccount button
+2018-04-01 13:57:07 INFO  HomePage:111 - Selected MR radio button
+2018-04-01 13:57:07 INFO  HomePage:113 - Entered FirstName
+2018-04-01 13:57:07 INFO  HomePage:115 - Entered LastName
+2018-04-01 13:57:07 INFO  HomePage:117 - Entered password
+2018-04-01 13:57:07 INFO  HomePage:119 - Entered Address1
+2018-04-01 13:57:07 INFO  HomePage:121 - City Enetered
+2018-04-01 13:57:08 INFO  HomePage:124 - Entered State
+2018-04-01 13:57:08 INFO  HomePage:126 - Entered ZipCode
+2018-04-01 13:57:08 INFO  HomePage:128 - Entered Mobile Number
+2018-04-01 13:57:08 INFO  HomePage:131 - Entered Country
+2018-04-01 13:57:08 INFO  HomePage:133 - Entered Address2
+2018-04-01 13:57:12 INFO  HomePage:135 - Clicked on Submit button
+2018-04-01 13:58:52 INFO  TC02_VerifyRegistration:24 - =============== STARTING verifyregistration TEST ================
+2018-04-01 13:58:56 INFO  HomePage:104 - clicked on sign in button
+2018-04-01 13:58:56 INFO  HomePage:106 - Entered email address
+2018-04-01 13:58:56 INFO  HomePage:108 - Clicked on CreateAccount button
+2018-04-01 13:59:06 INFO  HomePage:111 - Selected MR radio button
+2018-04-01 13:59:06 INFO  HomePage:113 - Entered FirstName
+2018-04-01 13:59:06 INFO  HomePage:115 - Entered LastName
+2018-04-01 13:59:06 INFO  HomePage:117 - Entered password
+2018-04-01 13:59:07 INFO  HomePage:119 - Entered Address1
+2018-04-01 13:59:07 INFO  HomePage:121 - City Enetered
+2018-04-01 13:59:07 INFO  HomePage:124 - Entered State
+2018-04-01 13:59:07 INFO  HomePage:126 - Entered ZipCode
+2018-04-01 13:59:07 INFO  HomePage:128 - Entered Mobile Number
+2018-04-01 13:59:07 INFO  HomePage:131 - Entered Country
+2018-04-01 13:59:12 INFO  HomePage:133 - Entered Address2
+2018-04-01 13:59:16 INFO  HomePage:135 - Clicked on Submit button
+2018-04-01 13:59:26 INFO  HomePage:138 - Sign Out is displayed
+2018-04-01 16:46:59 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-01 16:47:03 INFO  HomePage:104 - clicked on sign in button
+2018-04-01 16:47:03 INFO  HomePage:106 - Entered email address
+2018-04-01 16:47:03 INFO  HomePage:108 - Clicked on CreateAccount button
+2018-04-01 16:47:13 INFO  HomePage:111 - Selected MR radio button
+2018-04-01 16:47:14 INFO  HomePage:113 - Entered FirstName
+2018-04-01 16:47:14 INFO  HomePage:115 - Entered LastName
+2018-04-01 16:47:14 INFO  HomePage:117 - Entered password
+2018-04-01 16:47:14 INFO  HomePage:119 - Entered Address1
+2018-04-01 16:47:14 INFO  HomePage:121 - City Enetered
+2018-04-01 16:47:14 INFO  HomePage:124 - Entered State
+2018-04-01 16:47:14 INFO  HomePage:126 - Entered ZipCode
+2018-04-01 16:47:15 INFO  HomePage:128 - Entered Mobile Number
+2018-04-01 16:47:15 INFO  HomePage:131 - Entered Country
+2018-04-01 16:47:15 INFO  HomePage:133 - Entered Address2
+2018-04-01 16:47:19 INFO  HomePage:135 - Clicked on Submit button
+2018-04-08 13:59:39 INFO  TC03_Verifyloginwithdifferentrecords:25 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 13:59:45 INFO  HomePage:91 - clicked on signin link[[ChromeDriver: chrome on XP (b14d6d8c96bff9fc1f4ccfc75f77407e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 13:59:45 INFO  HomePage:93 - Enterted username[[ChromeDriver: chrome on XP (b14d6d8c96bff9fc1f4ccfc75f77407e)] -> xpath: //input[@id='email']]
+2018-04-08 13:59:45 INFO  HomePage:95 - Entered Password[[ChromeDriver: chrome on XP (b14d6d8c96bff9fc1f4ccfc75f77407e)] -> xpath: //input[@id='passwd']]
+2018-04-08 13:59:49 INFO  HomePage:97 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 13:59:49 INFO  TC03_Verifyloginwithdifferentrecords:28 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 14:44:55 INFO  TC03_Verifyloginwithdifferentrecords:36 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 14:45:10 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (5cd1664bab5e0f9e12046b4b941fb6e4)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 14:45:10 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (5cd1664bab5e0f9e12046b4b941fb6e4)] -> xpath: //input[@id='email']]
+2018-04-08 14:45:10 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (5cd1664bab5e0f9e12046b4b941fb6e4)] -> xpath: //input[@id='passwd']]
+2018-04-08 14:45:19 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 14:47:08 INFO  TC03_Verifyloginwithdifferentrecords:37 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 14:47:12 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (3b73d672f9ad5c747a310019c3bbdaf2)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 14:47:12 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (3b73d672f9ad5c747a310019c3bbdaf2)] -> xpath: //input[@id='email']]
+2018-04-08 14:47:12 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (3b73d672f9ad5c747a310019c3bbdaf2)] -> xpath: //input[@id='passwd']]
+2018-04-08 14:47:17 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 14:49:25 INFO  TC03_Verifyloginwithdifferentrecords:37 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 14:49:35 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (09f3aa56350fa99209d86d850aeb19af)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 14:49:35 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (09f3aa56350fa99209d86d850aeb19af)] -> xpath: //input[@id='email']]
+2018-04-08 14:49:35 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (09f3aa56350fa99209d86d850aeb19af)] -> xpath: //input[@id='passwd']]
+2018-04-08 14:49:38 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 14:52:36 INFO  TC03_Verifyloginwithdifferentrecords:37 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 14:52:41 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (0ebe7ba8149ff1d9cbc3b31f340364cc)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 14:52:41 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (0ebe7ba8149ff1d9cbc3b31f340364cc)] -> xpath: //input[@id='email']]
+2018-04-08 14:52:41 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (0ebe7ba8149ff1d9cbc3b31f340364cc)] -> xpath: //input[@id='passwd']]
+2018-04-08 14:52:44 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 15:05:21 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 15:05:25 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (13c2f7bbba1e0be769ecdcf1acfc545a)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 15:05:25 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (13c2f7bbba1e0be769ecdcf1acfc545a)] -> xpath: //input[@id='email']]
+2018-04-08 15:05:25 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (13c2f7bbba1e0be769ecdcf1acfc545a)] -> xpath: //input[@id='passwd']]
+2018-04-08 15:05:29 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 15:17:18 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 15:17:22 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (2a6cd23ccf9c6de6b5ebbcafb44c2c1c)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 15:17:22 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (2a6cd23ccf9c6de6b5ebbcafb44c2c1c)] -> xpath: //input[@id='email']]
+2018-04-08 15:17:23 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (2a6cd23ccf9c6de6b5ebbcafb44c2c1c)] -> xpath: //input[@id='passwd']]
+2018-04-08 15:17:26 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 20:08:53 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 20:08:58 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (b8ceed109a333354e05b1035ca988658)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 20:08:58 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (b8ceed109a333354e05b1035ca988658)] -> xpath: //input[@id='email']]
+2018-04-08 20:08:58 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (b8ceed109a333354e05b1035ca988658)] -> xpath: //input[@id='passwd']]
+2018-04-08 20:09:01 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 20:12:20 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 20:12:25 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (d5829fdcb4168703cf7361599a44e884)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 20:12:25 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (d5829fdcb4168703cf7361599a44e884)] -> xpath: //input[@id='email']]
+2018-04-08 20:12:25 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (d5829fdcb4168703cf7361599a44e884)] -> xpath: //input[@id='passwd']]
+2018-04-08 20:12:29 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 20:12:29 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 20:12:31 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (d5829fdcb4168703cf7361599a44e884)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 20:12:31 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 20:12:32 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (d5829fdcb4168703cf7361599a44e884)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:19:59 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:20:05 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1070b22d93e6abf093115f41a9012755)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:20:05 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (1070b22d93e6abf093115f41a9012755)] -> xpath: //input[@id='email']]
+2018-04-08 21:20:06 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (1070b22d93e6abf093115f41a9012755)] -> xpath: //input[@id='passwd']]
+2018-04-08 21:20:10 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 21:20:10 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:20:13 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1070b22d93e6abf093115f41a9012755)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:20:13 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:20:17 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1070b22d93e6abf093115f41a9012755)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:44:45 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:44:51 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (afac1fa3a874905620337ed339b7c18e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:44:51 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (afac1fa3a874905620337ed339b7c18e)] -> xpath: //input[@id='email']]
+2018-04-08 21:44:51 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (afac1fa3a874905620337ed339b7c18e)] -> xpath: //input[@id='passwd']]
+2018-04-08 21:44:57 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 21:44:57 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:45:06 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (afac1fa3a874905620337ed339b7c18e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:45:06 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:45:25 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (afac1fa3a874905620337ed339b7c18e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:51:13 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:51:35 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1a109b6cdd46f73332a3cf88c5867237)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:51:36 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (1a109b6cdd46f73332a3cf88c5867237)] -> xpath: //input[@id='email']]
+2018-04-08 21:51:36 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (1a109b6cdd46f73332a3cf88c5867237)] -> xpath: //input[@id='passwd']]
+2018-04-08 21:51:43 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 21:51:43 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:51:46 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1a109b6cdd46f73332a3cf88c5867237)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 21:51:46 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 21:51:50 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1a109b6cdd46f73332a3cf88c5867237)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:27:04 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:27:09 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (662d8111db9a3ebaac36580d94bb551d)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:27:09 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (662d8111db9a3ebaac36580d94bb551d)] -> xpath: //input[@id='email']]
+2018-04-08 22:27:10 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (662d8111db9a3ebaac36580d94bb551d)] -> xpath: //input[@id='passwd']]
+2018-04-08 22:27:13 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 22:27:13 INFO  TC03_Verifyloginwithdifferentrecords:47 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:27:13 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:27:16 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (662d8111db9a3ebaac36580d94bb551d)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:27:16 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:27:19 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (662d8111db9a3ebaac36580d94bb551d)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:33:52 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:34:12 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (3cff2235a42163aeb0a5191f3b55e07e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:34:13 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (3cff2235a42163aeb0a5191f3b55e07e)] -> xpath: //input[@id='email']]
+2018-04-08 22:34:13 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (3cff2235a42163aeb0a5191f3b55e07e)] -> xpath: //input[@id='passwd']]
+2018-04-08 22:34:17 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 22:34:17 INFO  TC03_Verifyloginwithdifferentrecords:47 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:34:17 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:34:19 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (3cff2235a42163aeb0a5191f3b55e07e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:34:19 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:34:20 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (3cff2235a42163aeb0a5191f3b55e07e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:39:00 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:39:06 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (430d956058638993a888601231e2d23f)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:39:06 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (430d956058638993a888601231e2d23f)] -> xpath: //input[@id='email']]
+2018-04-08 22:39:06 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (430d956058638993a888601231e2d23f)] -> xpath: //input[@id='passwd']]
+2018-04-08 22:39:11 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 22:39:11 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:39:12 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:39:12 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:42:55 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:43:06 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (df8ec049b33ed1963c817c475b0afcb7)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:43:06 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (df8ec049b33ed1963c817c475b0afcb7)] -> xpath: //input[@id='email']]
+2018-04-08 22:43:07 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (df8ec049b33ed1963c817c475b0afcb7)] -> xpath: //input[@id='passwd']]
+2018-04-08 22:43:12 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 22:43:12 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:43:12 INFO  TC03_Verifyloginwithdifferentrecords:39 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:47:03 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:47:07 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (35fbf4f78b7eb4346cc314431f873ea6)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:47:07 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (35fbf4f78b7eb4346cc314431f873ea6)] -> xpath: //input[@id='email']]
+2018-04-08 22:47:07 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (35fbf4f78b7eb4346cc314431f873ea6)] -> xpath: //input[@id='passwd']]
+2018-04-08 22:47:10 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 22:47:10 INFO  TC03_Verifyloginwithdifferentrecords:49 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:47:12 INFO  TestBase:35 - creating object of chrome
+2018-04-08 22:49:09 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-08 22:49:10 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:49:17 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (fb45341258dc9409206a9e6be3975ff4)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:49:17 INFO  TestBase:35 - creating object of chrome
+2018-04-08 22:51:33 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-08 22:51:34 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:51:41 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (c8282af975482ddaf7c757d24fcd65e8)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:54:54 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:55:01 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (a406127f81391948a09b08ee1edab3bc)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:55:01 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (a406127f81391948a09b08ee1edab3bc)] -> xpath: //input[@id='email']]
+2018-04-08 22:55:01 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (a406127f81391948a09b08ee1edab3bc)] -> xpath: //input[@id='passwd']]
+2018-04-08 22:55:04 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 22:55:04 INFO  TC03_Verifyloginwithdifferentrecords:49 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:55:04 INFO  TestBase:35 - creating object of chrome
+2018-04-08 22:57:04 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-08 22:57:05 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:57:16 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (e035fe7630720db732baf1bbe0a40c29)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 22:57:16 INFO  TestBase:35 - creating object of chrome
+2018-04-08 22:58:45 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-08 22:58:46 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 22:58:50 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (a8fbaab81876f03c818904da4dff033c)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 23:14:01 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 23:14:05 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1b8aa0b4fc4fc1030d9c8490c9652b18)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 23:14:05 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (1b8aa0b4fc4fc1030d9c8490c9652b18)] -> xpath: //input[@id='email']]
+2018-04-08 23:14:05 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (1b8aa0b4fc4fc1030d9c8490c9652b18)] -> xpath: //input[@id='passwd']]
+2018-04-08 23:14:08 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-08 23:14:08 INFO  TC03_Verifyloginwithdifferentrecords:49 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-08 23:14:08 INFO  TestBase:35 - creating object of chrome
+2018-04-08 23:15:58 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-08 23:16:00 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 23:16:17 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (ac9060a441d5a776c358ab33e7d7e5bc)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-08 23:16:17 INFO  TestBase:35 - creating object of chrome
+2018-04-08 23:17:30 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-08 23:17:31 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-08 23:17:42 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (81af021a54b86cc0fdc8f6009a10f317)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 06:48:10 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:48:19 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (179fee31791e088b8f3f07c5c72ab0ca)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 06:48:19 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (179fee31791e088b8f3f07c5c72ab0ca)] -> xpath: //input[@id='email']]
+2018-04-09 06:48:19 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (179fee31791e088b8f3f07c5c72ab0ca)] -> xpath: //input[@id='passwd']]
+2018-04-09 06:48:25 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 06:48:25 INFO  TC03_Verifyloginwithdifferentrecords:50 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:48:27 INFO  TestBase:35 - creating object of chrome
+2018-04-09 06:49:12 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 06:49:13 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:49:16 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (c7a74ddd4bba74d0f5a379c689d5423e)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 06:49:16 INFO  TestBase:35 - creating object of chrome
+2018-04-09 06:50:04 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 06:50:05 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:50:24 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (c476c3ff922bdd4e355d1d29284eb9d8)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 06:54:36 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:54:41 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (54e090e34fa01e0737c06225641d58a1)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 06:54:41 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (54e090e34fa01e0737c06225641d58a1)] -> xpath: //input[@id='email']]
+2018-04-09 06:54:42 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (54e090e34fa01e0737c06225641d58a1)] -> xpath: //input[@id='passwd']]
+2018-04-09 06:54:45 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 06:54:45 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 06:54:45 INFO  TC03_Verifyloginwithdifferentrecords:50 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:54:45 INFO  TestBase:35 - creating object of chrome
+2018-04-09 06:55:13 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 06:55:14 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:55:20 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (d625e0c69ddf3562dae5878e26037337)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 06:55:22 INFO  TestBase:35 - creating object of chrome
+2018-04-09 06:55:52 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 06:55:53 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 06:55:58 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (c12e2c63f8516e4e2bddb4dc2f597681)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:00:11 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:00:16 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (e8fe39491d852f53e3fefffe4695b522)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:00:17 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (e8fe39491d852f53e3fefffe4695b522)] -> xpath: //input[@id='email']]
+2018-04-09 07:00:17 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (e8fe39491d852f53e3fefffe4695b522)] -> xpath: //input[@id='passwd']]
+2018-04-09 07:00:21 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 07:00:21 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 07:00:21 INFO  TC03_Verifyloginwithdifferentrecords:50 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:00:21 INFO  TestBase:35 - creating object of chrome
+2018-04-09 07:01:20 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 07:01:22 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:01:30 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (a9751cff1302af5ae5824ad208ea7e49)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:01:31 INFO  TestBase:35 - creating object of chrome
+2018-04-09 07:02:49 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 07:02:50 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:02:56 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (982a07d76c41bf53b205621630a2dafe)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:18:29 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:18:35 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (9923f230fd225e96524590dcd740a48b)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:18:35 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (9923f230fd225e96524590dcd740a48b)] -> xpath: //input[@id='email']]
+2018-04-09 07:18:35 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (9923f230fd225e96524590dcd740a48b)] -> xpath: //input[@id='passwd']]
+2018-04-09 07:18:40 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 07:18:40 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 07:18:40 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-09 07:18:44 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-09 07:18:44 INFO  TC03_Verifyloginwithdifferentrecords:49 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:18:44 INFO  TestBase:35 - creating object of chrome
+2018-04-09 07:19:14 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 07:19:15 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:19:19 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (c0484860c93e0f319a872c05ae49c013)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:19:20 INFO  TestBase:35 - creating object of chrome
+2018-04-09 07:19:48 INFO  TestBase:49 - launching the urlhttp://automationpractice.com/index.php
+2018-04-09 07:19:49 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:19:55 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (ad1ca7189cede9c29fa0821230d55850)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:22:54 INFO  TC03_Verifyloginwithdifferentrecords:42 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:23:00 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (7ea0f77ad621e36e32a6efcbaa7fa406)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:23:05 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (7ea0f77ad621e36e32a6efcbaa7fa406)] -> xpath: //input[@id='email']]
+2018-04-09 07:23:05 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (7ea0f77ad621e36e32a6efcbaa7fa406)] -> xpath: //input[@id='passwd']]
+2018-04-09 07:23:09 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 07:23:09 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 07:23:09 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-09 07:23:12 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-09 07:23:12 INFO  TC03_Verifyloginwithdifferentrecords:51 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:25:11 INFO  TC03_Verifyloginwithdifferentrecords:42 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:31:14 INFO  TC03_Verifyloginwithdifferentrecords:42 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:31:19 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (bb441fd70efe2234c6a174832921bac2)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:31:19 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (bb441fd70efe2234c6a174832921bac2)] -> xpath: //input[@id='email']]
+2018-04-09 07:31:19 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (bb441fd70efe2234c6a174832921bac2)] -> xpath: //input[@id='passwd']]
+2018-04-09 07:31:22 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 07:31:22 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 07:31:22 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-09 07:31:27 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-09 07:31:37 INFO  TC03_Verifyloginwithdifferentrecords:51 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:36:29 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:36:32 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (8c56b76336149a2d86b9e4e771e7ee3b)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:36:32 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (8c56b76336149a2d86b9e4e771e7ee3b)] -> xpath: //input[@id='email']]
+2018-04-09 07:36:32 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (8c56b76336149a2d86b9e4e771e7ee3b)] -> xpath: //input[@id='passwd']]
+2018-04-09 07:36:34 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 07:36:34 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 07:36:34 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-09 07:36:39 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-09 07:36:49 INFO  TC03_Verifyloginwithdifferentrecords:49 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:47:54 INFO  TC03_Verifyloginwithdifferentrecords:40 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 07:47:59 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (1b694921f9cc31be620aa6e44480aa8d)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 07:47:59 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (1b694921f9cc31be620aa6e44480aa8d)] -> xpath: //input[@id='email']]
+2018-04-09 07:47:59 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (1b694921f9cc31be620aa6e44480aa8d)] -> xpath: //input[@id='passwd']]
+2018-04-09 07:48:02 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-09 07:48:02 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 07:48:02 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-09 07:48:06 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-09 07:48:16 INFO  TC03_Verifyloginwithdifferentrecords:49 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-09 08:55:57 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-09 08:56:14 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (a1168a224fd0c19c396001458b2d519b)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-09 08:56:14 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (a1168a224fd0c19c396001458b2d519b)] -> xpath: //input[@id='email']]
+2018-04-09 08:56:14 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (a1168a224fd0c19c396001458b2d519b)] -> xpath: //input[@id='passwd']]
+2018-04-09 08:56:16 INFO  HomePage:99 - Clicked on Submit button[[ChromeDriver: chrome on XP (a1168a224fd0c19c396001458b2d519b)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-09 08:56:16 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-09 08:56:16 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-09 08:56:20 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-09 08:56:30 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-10 06:38:02 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-10 06:38:07 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (fdedd87a7290db350fc82ce6767130a2)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-10 06:38:08 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (fdedd87a7290db350fc82ce6767130a2)] -> xpath: //input[@id='email']]
+2018-04-10 06:38:08 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (fdedd87a7290db350fc82ce6767130a2)] -> xpath: //input[@id='passwd']]
+2018-04-10 06:38:10 INFO  HomePage:99 - Clicked on Submit button[[ChromeDriver: chrome on XP (fdedd87a7290db350fc82ce6767130a2)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-10 06:38:10 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-10 06:38:11 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-10 06:38:14 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-10 06:38:24 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-10 06:39:19 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-10 06:40:09 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-10 06:40:15 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (725fcb81070e78c8160cacc643bc43c9)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-10 06:40:16 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (725fcb81070e78c8160cacc643bc43c9)] -> xpath: //input[@id='email']]
+2018-04-10 06:40:16 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (725fcb81070e78c8160cacc643bc43c9)] -> xpath: //input[@id='passwd']]
+2018-04-10 06:40:20 INFO  HomePage:99 - Clicked on Submit button[[ChromeDriver: chrome on XP (725fcb81070e78c8160cacc643bc43c9)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-10 06:40:20 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-10 06:40:20 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-10 06:40:23 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-10 06:40:33 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-10 06:57:47 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-10 06:57:51 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (2fdb784e918c3d3c025ffa7bf2fe7a17)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-10 06:57:51 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (2fdb784e918c3d3c025ffa7bf2fe7a17)] -> xpath: //input[@id='email']]
+2018-04-10 06:57:51 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (2fdb784e918c3d3c025ffa7bf2fe7a17)] -> xpath: //input[@id='passwd']]
+2018-04-10 06:57:54 INFO  HomePage:99 - Clicked on Submit button[[ChromeDriver: chrome on XP (2fdb784e918c3d3c025ffa7bf2fe7a17)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-10 06:57:54 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-10 06:57:54 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-10 06:57:58 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-10 06:58:08 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-10 07:03:29 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-10 07:03:35 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (01fa9c2b932eb0721203356ec8cdeab3)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-10 07:03:35 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (01fa9c2b932eb0721203356ec8cdeab3)] -> xpath: //input[@id='email']]
+2018-04-10 07:03:35 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (01fa9c2b932eb0721203356ec8cdeab3)] -> xpath: //input[@id='passwd']]
+2018-04-10 07:03:40 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-10 07:03:40 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-10 07:03:40 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-10 07:03:45 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-10 07:03:55 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-10 07:03:55 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-10 07:04:00 INFO  HomePage:93 - clicked on signin link[[ChromeDriver: chrome on XP (01fa9c2b932eb0721203356ec8cdeab3)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-10 07:04:00 INFO  HomePage:95 - Enterted username[[ChromeDriver: chrome on XP (01fa9c2b932eb0721203356ec8cdeab3)] -> xpath: //input[@id='email']]
+2018-04-10 07:04:00 INFO  HomePage:97 - Entered Password[[ChromeDriver: chrome on XP (01fa9c2b932eb0721203356ec8cdeab3)] -> xpath: //input[@id='passwd']]
+2018-04-10 07:04:03 INFO  HomePage:99 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-10 07:04:03 INFO  HomePage:143 - ############### starting verifyloginmessage ###################
+2018-04-10 07:04:03 INFO  HomePage:147 - ############### signout is displayed ###################
+2018-04-10 07:04:08 INFO  HomePage:157 - ############ clicked signout ##############
+2018-04-10 07:04:18 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-15 11:59:44 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 11:59:55 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 11:59:55 INFO  HomePage:109 - Entered email address
+2018-04-15 11:59:55 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 12:09:46 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 12:09:55 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 12:09:55 INFO  HomePage:109 - Entered email address
+2018-04-15 12:09:55 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 12:10:05 INFO  HomePage:114 - Selected MR radio button
+2018-04-15 12:10:06 INFO  HomePage:116 - Entered FirstName
+2018-04-15 12:10:06 INFO  HomePage:118 - Entered LastName
+2018-04-15 12:10:06 INFO  HomePage:120 - Entered password
+2018-04-15 12:10:06 INFO  HomePage:122 - Entered Address1
+2018-04-15 12:10:06 INFO  HomePage:124 - City Enetered
+2018-04-15 12:10:07 INFO  HomePage:127 - Entered State
+2018-04-15 12:10:07 INFO  HomePage:129 - Entered ZipCode
+2018-04-15 12:10:07 INFO  HomePage:131 - Entered Mobile Number
+2018-04-15 12:10:07 INFO  HomePage:134 - Entered Country
+2018-04-15 12:10:07 INFO  HomePage:136 - Entered Address2
+2018-04-15 12:10:29 INFO  HomePage:138 - Clicked on Submit button
+2018-04-15 12:10:39 INFO  HomePage:144 - ############### starting verifyloginmessage ###################
+2018-04-15 12:10:39 INFO  HomePage:148 - ############### signout is displayed ###################
+2018-04-15 12:12:58 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 12:13:09 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 12:30:19 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 12:30:23 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 12:44:45 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 12:44:49 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 12:44:49 INFO  HomePage:109 - Entered email address
+2018-04-15 12:44:49 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 12:45:00 INFO  HomePage:114 - Selected MR radio button
+2018-04-15 12:45:00 INFO  HomePage:116 - Entered FirstName
+2018-04-15 12:47:14 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 12:47:18 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 12:47:18 INFO  HomePage:109 - Entered email address
+2018-04-15 12:47:18 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 12:47:28 INFO  HomePage:114 - Selected MR radio button
+2018-04-15 12:47:28 INFO  HomePage:116 - Entered FirstName
+2018-04-15 13:14:35 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 13:14:38 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (ec57c6ef3c4086b6b2fcc01cd6c006e4)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:14:39 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (ec57c6ef3c4086b6b2fcc01cd6c006e4)] -> xpath: //input[@id='email']]
+2018-04-15 13:14:39 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (ec57c6ef3c4086b6b2fcc01cd6c006e4)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:14:41 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (ec57c6ef3c4086b6b2fcc01cd6c006e4)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 13:14:41 INFO  TC01_verifyInvaidLogin:38 - Error Message validation failed
+2018-04-15 13:14:41 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 13:17:01 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 13:17:32 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (a875768a67c521747a3c472ac82fb541)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:17:32 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (a875768a67c521747a3c472ac82fb541)] -> xpath: //input[@id='email']]
+2018-04-15 13:17:33 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (a875768a67c521747a3c472ac82fb541)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:17:35 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (a875768a67c521747a3c472ac82fb541)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 13:17:35 INFO  TC01_verifyInvaidLogin:38 - Error Message validation failed
+2018-04-15 13:17:35 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 13:20:59 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-15 13:21:03 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (c66314d28c752b3c4937da14b9acf54b)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:21:03 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (c66314d28c752b3c4937da14b9acf54b)] -> xpath: //input[@id='email']]
+2018-04-15 13:21:04 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (c66314d28c752b3c4937da14b9acf54b)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:21:07 INFO  HomePage:100 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-15 13:21:07 INFO  HomePage:144 - ############### starting verifyloginmessage ###################
+2018-04-15 13:21:07 INFO  HomePage:148 - ############### signout is displayed ###################
+2018-04-15 13:21:11 INFO  HomePage:158 - ############ clicked signout ##############
+2018-04-15 13:21:21 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-15 13:21:21 INFO  TC03_Verifyloginwithdifferentrecords:38 - ################## Stating Verifyloginwithdifferentrecords case ##################
+2018-04-15 13:21:24 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (c66314d28c752b3c4937da14b9acf54b)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:21:24 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (c66314d28c752b3c4937da14b9acf54b)] -> xpath: //input[@id='email']]
+2018-04-15 13:21:24 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (c66314d28c752b3c4937da14b9acf54b)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:21:26 INFO  HomePage:100 - Clicked on Submit buttonProxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2018-04-15 13:21:26 INFO  HomePage:144 - ############### starting verifyloginmessage ###################
+2018-04-15 13:21:26 INFO  HomePage:148 - ############### signout is displayed ###################
+2018-04-15 13:21:29 INFO  HomePage:158 - ############ clicked signout ##############
+2018-04-15 13:21:39 INFO  TC03_Verifyloginwithdifferentrecords:48 - ################## End Verifyloginwithdifferentrecords case ##################
+2018-04-15 13:30:35 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 13:30:40 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 13:30:40 INFO  HomePage:109 - Entered email address
+2018-04-15 13:30:40 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 13:30:50 INFO  HomePage:114 - Selected MR radio button
+2018-04-15 13:30:51 INFO  HomePage:116 - Entered FirstName
+2018-04-15 13:30:51 INFO  HomePage:118 - Entered LastName
+2018-04-15 13:35:10 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 13:35:14 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (191889cf4df2e591cd4e72e8ec5ae8cf)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:35:14 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (191889cf4df2e591cd4e72e8ec5ae8cf)] -> xpath: //input[@id='email']]
+2018-04-15 13:35:14 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (191889cf4df2e591cd4e72e8ec5ae8cf)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:35:22 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (191889cf4df2e591cd4e72e8ec5ae8cf)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 13:35:22 INFO  TC01_verifyInvaidLogin:38 - Error Message validation failed
+2018-04-15 13:35:22 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 13:40:08 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 13:40:11 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (776b4115f5cd74f0da5b972f05bf5f41)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:40:11 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (776b4115f5cd74f0da5b972f05bf5f41)] -> xpath: //input[@id='email']]
+2018-04-15 13:40:11 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (776b4115f5cd74f0da5b972f05bf5f41)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:40:14 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (776b4115f5cd74f0da5b972f05bf5f41)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 13:44:26 INFO  TestBase:46 - creating object of chrome
+2018-04-15 13:45:02 INFO  TestBase:60 - launching the urlhttp://automationpractice.com/index.php
+2018-04-15 13:45:04 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 13:45:07 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (b55eff43794fafc533dc461854ef7d74)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:45:07 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (b55eff43794fafc533dc461854ef7d74)] -> xpath: //input[@id='email']]
+2018-04-15 13:45:07 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (b55eff43794fafc533dc461854ef7d74)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:45:09 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (b55eff43794fafc533dc461854ef7d74)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 13:45:09 INFO  TC01_verifyInvaidLogin:38 - Error Message validation failed
+2018-04-15 13:45:09 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 13:45:09 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 13:45:17 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 13:45:17 INFO  HomePage:109 - Entered email address
+2018-04-15 13:45:17 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 13:45:27 INFO  HomePage:114 - Selected MR radio button
+2018-04-15 13:45:27 INFO  HomePage:116 - Entered FirstName
+2018-04-15 13:45:27 INFO  HomePage:118 - Entered LastName
+2018-04-15 13:45:27 INFO  HomePage:120 - Entered password
+2018-04-15 13:45:27 INFO  HomePage:122 - Entered Address1
+2018-04-15 13:45:27 INFO  HomePage:124 - City Enetered
+2018-04-15 13:45:28 INFO  HomePage:127 - Entered State
+2018-04-15 13:45:28 INFO  HomePage:129 - Entered ZipCode
+2018-04-15 13:45:28 INFO  HomePage:131 - Entered Mobile Number
+2018-04-15 13:45:28 INFO  HomePage:134 - Entered Country
+2018-04-15 13:45:28 INFO  HomePage:136 - Entered Address2
+2018-04-15 13:45:32 INFO  HomePage:138 - Clicked on Submit button
+2018-04-15 13:45:42 INFO  HomePage:144 - ############### starting verifyloginmessage ###################
+2018-04-15 13:45:42 INFO  HomePage:148 - ############### signout is displayed ###################
+2018-04-15 13:51:50 INFO  TestBase:46 - creating object of chrome
+2018-04-15 13:52:34 INFO  TestBase:60 - launching the urlhttp://automationpractice.com/index.php
+2018-04-15 13:52:35 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 13:52:39 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (06cef9466d2eef7695a2d8704c5f45b2)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:52:39 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (06cef9466d2eef7695a2d8704c5f45b2)] -> xpath: //input[@id='email']]
+2018-04-15 13:52:40 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (06cef9466d2eef7695a2d8704c5f45b2)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:52:42 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (06cef9466d2eef7695a2d8704c5f45b2)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 13:52:42 INFO  TC01_verifyInvaidLogin:38 - Error Message validation failed
+2018-04-15 13:52:42 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 13:52:42 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 13:52:46 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 13:52:46 INFO  HomePage:109 - Entered email address
+2018-04-15 13:52:46 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 13:55:44 INFO  TestBase:47 - creating object of chrome
+2018-04-15 13:56:27 INFO  TestBase:61 - launching the urlhttp://automationpractice.com/index.php
+2018-04-15 13:56:28 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 13:56:32 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (98ef651249550cbcfd1aa127c41d4ede)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 13:56:32 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (98ef651249550cbcfd1aa127c41d4ede)] -> xpath: //input[@id='email']]
+2018-04-15 13:56:33 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (98ef651249550cbcfd1aa127c41d4ede)] -> xpath: //input[@id='passwd']]
+2018-04-15 13:56:35 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (98ef651249550cbcfd1aa127c41d4ede)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 13:56:35 INFO  TC01_verifyInvaidLogin:38 - Error Message validation failed
+2018-04-15 13:56:35 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 13:56:35 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 13:56:38 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 13:56:38 INFO  HomePage:109 - Entered email address
+2018-04-15 13:56:38 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 14:07:40 INFO  TestBase:47 - creating object of chrome
+2018-04-15 14:09:03 INFO  TestBase:61 - launching the urlhttp://automationpractice.com/index.php
+2018-04-15 14:09:04 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 14:09:10 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (228e60a8931354c58734fe7c79f9b798)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 14:09:10 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (228e60a8931354c58734fe7c79f9b798)] -> xpath: //input[@id='email']]
+2018-04-15 14:09:10 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (228e60a8931354c58734fe7c79f9b798)] -> xpath: //input[@id='passwd']]
+2018-04-15 14:09:14 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (228e60a8931354c58734fe7c79f9b798)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 14:09:14 INFO  TC01_verifyInvaidLogin:38 - Error Message validation failed
+2018-04-15 14:09:14 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 14:09:14 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 14:09:26 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 14:09:26 INFO  HomePage:109 - Entered email address
+2018-04-15 14:09:26 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 14:12:58 INFO  TestBase:47 - creating object of chrome
+2018-04-15 14:13:56 INFO  TestBase:61 - launching the urlhttp://automationpractice.com/index.php
+2018-04-15 14:13:57 INFO  TC01_verifyInvaidLogin:34 - ######### Starting verifybyinvlidlogin test ###########
+2018-04-15 14:14:00 INFO  HomePage:94 - clicked on signin link[[ChromeDriver: chrome on XP (3921ae7ca2e5d1c3f7f713a333455379)] -> xpath: //div[@class='header_user_info']/a]
+2018-04-15 14:14:00 INFO  HomePage:96 - Enterted username[[ChromeDriver: chrome on XP (3921ae7ca2e5d1c3f7f713a333455379)] -> xpath: //input[@id='email']]
+2018-04-15 14:14:00 INFO  HomePage:98 - Entered Password[[ChromeDriver: chrome on XP (3921ae7ca2e5d1c3f7f713a333455379)] -> xpath: //input[@id='passwd']]
+2018-04-15 14:14:03 INFO  HomePage:100 - Clicked on Submit button[[ChromeDriver: chrome on XP (3921ae7ca2e5d1c3f7f713a333455379)] -> xpath: //*[@id='SubmitLogin']]
+2018-04-15 14:14:03 INFO  TC01_verifyInvaidLogin:38 - Error Message validation Passed
+2018-04-15 14:14:03 INFO  TC01_verifyInvaidLogin:39 - ######### ending verifybyinvlidlogin test ###########
+2018-04-15 14:14:03 INFO  TC02_VerifyRegistration:26 - =============== STARTING verifyregistration TEST ================
+2018-04-15 14:14:06 INFO  HomePage:107 - clicked on sign in button
+2018-04-15 14:14:06 INFO  HomePage:109 - Entered email address
+2018-04-15 14:14:06 INFO  HomePage:111 - Clicked on CreateAccount button
+2018-04-15 14:14:16 INFO  HomePage:114 - Selected MR radio button
+2018-04-15 14:14:16 INFO  HomePage:116 - Entered FirstName
+2018-04-15 14:14:16 INFO  HomePage:118 - Entered LastName
+2018-04-15 14:14:17 INFO  HomePage:120 - Entered password
+2018-04-15 14:14:17 INFO  HomePage:122 - Entered Address1
+2018-04-15 14:14:17 INFO  HomePage:124 - City Enetered
+2018-04-15 14:14:17 INFO  HomePage:127 - Entered State
+2018-04-15 14:14:17 INFO  HomePage:129 - Entered ZipCode
+2018-04-15 14:14:17 INFO  HomePage:131 - Entered Mobile Number
+2018-04-15 14:14:18 INFO  HomePage:134 - Entered Country
+2018-04-15 14:14:18 INFO  HomePage:136 - Entered Address2
+2018-04-15 14:14:23 INFO  HomePage:138 - Clicked on Submit button
+2018-04-15 14:14:33 INFO  HomePage:144 - ############### starting verifyloginmessage ###################
+2018-04-15 14:14:33 INFO  HomePage:148 - ############### signout is displayed ###################

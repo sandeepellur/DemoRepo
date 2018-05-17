@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression Suites]" parallel="tests">
+  <listeners>
+    <listener class-name="com.test.POMmaven.POMmaven.CustomListeners.Listeners"/>
+  </listeners>
+  <test name="TC02_VerifyRegistration(failed)" parallel="tests">
+    <classes>
+      <class name="com.test.POMmaven.POMmaven.homepage.TC01_verifyInvaidLogin">
+        <methods>
+          <include name="endTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.test.POMmaven.POMmaven.homepage.TC01_verifyInvaidLogin -->
+      <class name="com.test.POMmaven.POMmaven.homepage.TC02_VerifyRegistration">
+        <methods>
+          <include name="verifyregistration"/>
+          <include name="setup"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- com.test.POMmaven.POMmaven.homepage.TC02_VerifyRegistration -->
+    </classes>
+  </test> <!-- TC02_VerifyRegistration(failed) -->
+</suite> <!-- Failed suite [Regression Suites] -->
