@@ -44,7 +44,7 @@ public class TestBase {
 	public void selectbrowser(String browser){
 		if(browser.equalsIgnoreCase("chrome")){
 			System.setProperty("webdriver.chrome.driver","C:\\Users\\Sandeep\\workspace\\POMmaven\\drivers\\chromedriver.exe");
-			log.info("creating object of: "+browser);
+			log.info("creating object of "+browser);
 			
 			driver=new ChromeDriver();
 						
